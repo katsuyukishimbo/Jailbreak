@@ -3,7 +3,11 @@ guid: ed28d6774540c48fd89dcddc2e1b52c4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - clearCanvasPrefab: {fileID: 5245621614892786946, guid: fd5874ad9c89a4bfe9a5437f1c4777a6,
+      type: 3}
+  - gameOverCanvasPrefab: {fileID: 5707216878189514451, guid: 40c2096929f3f4253a2de4f481491f1b,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
